@@ -9,16 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - text: CV
-        href: CV.pdf
+        href: CV/CV.pdf
 
 format:
   html:
     theme: slate
     css: styles.css
-about:
-  template: trestles
-  image-shape: rounded
-image: IMG_6917.JPG
+
 
 
 
