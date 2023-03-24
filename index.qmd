@@ -1,5 +1,12 @@
 ---
-title: "Jacob Weverka"
+image: IMG_6917.JPG
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - text: Twitter
+      href: https://twitter.com/weverkaj
+
 ---
 
 I am a Ph.D. candidate in the Schimel Lab at UC Santa Barbara. My research focuses on understanding controls on soil organic carbon cycling and storage, from both a fundamental and applied perspective. This ranges from theoretical models that seek to describe the effects of organic 'chemodiversity' on soil carbon cycling, to empirical studies that seek to understand how grazing management and organic amendments affect soil carbon storage.

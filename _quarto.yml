@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "personal.site"
+  title: "Jacob Weverka"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: CV
+        href: CV.pdf
 
 format:
   html:
-    theme: cosmo
+    theme: slate
     css: styles.css
-    toc: true
+about:
+  template: trestles
+  image-shape: rounded
+image: IMG_6917.JPG
 
 
 
