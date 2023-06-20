@@ -10,9 +10,6 @@ about:
       href: https://github.com/weverkaj
     - text: Twitter
       href: https://twitter.com/weverkaj
-      
-      
-
 ---
 
 ## About Me
