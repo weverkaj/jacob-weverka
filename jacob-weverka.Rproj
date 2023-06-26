@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: G:/My Drive/jacob-weverka
