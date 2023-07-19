@@ -10,7 +10,9 @@ about:
       href: https://github.com/weverkaj
     - text: Twitter
       href: https://twitter.com/weverkaj
-      
+    - icon: envelope 
+      text: Email
+      href: mailto:jweverka@ucsb.edu
       
 
 ---

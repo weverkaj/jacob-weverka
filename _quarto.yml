@@ -5,6 +5,7 @@ project:
 website:
   title: "Jacob Weverka"
   navbar:
+    title: Jacob Weverka
     left:
       - href: about.qmd
         text: Home
