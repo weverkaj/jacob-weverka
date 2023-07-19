@@ -7,7 +7,7 @@ website:
   navbar:
     title: Jacob Weverka
     left:
-      - href: about.qmd
+      - href: index.qmd
         text: Home
       - text: CV
         href: CV/CV.pdf
