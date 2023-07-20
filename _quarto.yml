@@ -11,6 +11,8 @@ website:
         text: Home
       - text: CV
         href: CV/CV.pdf
+      - text: Research
+        href: research.qmd
 
 format:
   html:
