@@ -1,0 +1,10 @@
+---
+title: "Roots, Grazing, and Soil Carbon"
+editor: visual
+description: How do grazing-induced changes in root growth and death under different grassland species change soil carbon cycling?
+editor: source
+---
+
+## {{< fa file >}} Description
+
+Developing strategies to store organic C on rangelands is important for both productivity and climate change mitigation. Improved grazing management is one potential strategy for building soil carbon, but this likely depends on how it affects root growth and death. Changes in grazing management can cause changes in root growth, but the nature and magnitude of these changes can vary depending on the plant species being grazed. In this research, I seek to understand how roots of different plant species respond to aboveground grazing, and how these different root responses drive changes in soil carbon cycling. I am particularly interested in investigating the idea that functional traits of plants broadly correspond to root responses, and that the functional composition of plant communities could therefore help predict soil responses to grazing.

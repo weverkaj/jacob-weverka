@@ -2,15 +2,17 @@
 title: "Chemodiversity"
 # image: https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/3562a6a2-93d6-4507-93f4-1294cd4cd02b.png?h=2be2d5da4cd78cc55d3ea2609195007f
 description: How do microbes use soil organic carbon in chemically complex mixtures?
-categories: [quarto, websites]
 editor: source
 ---
 
 <!-- <p align="center"> -->
+
 <!--   <img src="https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/3562a6a2-93d6-4507-93f4-1294cd4cd02b.png?h=2be2d5da4cd78cc55d3ea2609195007f" alt="Two happy penguins taking a selfie together in a snowy landscape." height="80%" width="80%"> -->
+
 <!--   <p class="custom-figcaption">Artwork by [Allison Horst.](https://allisonhorst.com/) Two penguins take a selfie with the Quarto moon!</p> -->
+
 <!-- </p> -->
 
 ## {{< fa file >}} Description
 
-Typically, soil C models divide organic C into pools with different decomposition rates, even though these pools contain complex mixtures of organic molecules. This may be important because soil microbes do not decompose pools of SOC. Instead, they take up and metabolize organic molecules with distinct chemical structures. To investigate the possible consequences of this chemical complexity, I developed a mathematical model that represents decomposition of any number of distinct substrates, corresponding enzymes, and the costs and benefits associated with building enzymes. Microbes, when faced with diverse potential substrates, must choose between assimilating one substrate or dividing efforts among many substrates. Either choice has a cost, and with this model, we suggest taht this could cause soil organic C pools with higher diversity of organic molecules to decompose more slowly.
+Typically, soil C models divide organic C into pools with different decomposition rates, even though these pools contain complex mixtures of organic molecules. This may be important because soil microbes do not decompose pools of SOC. Instead, they take up and metabolize organic molecules with distinct chemical structures. To investigate the possible consequences of this chemical complexity, I developed a mathematical model that represents decomposition of any number of distinct substrates, corresponding enzymes, and the costs and benefits associated with building enzymes. Microbes, when faced with diverse potential substrates, must choose between assimilating one substrate or dividing efforts among many substrates. Either choice has a cost, and with this model, we suggest that this could cause soil organic C pools with higher diversity of organic molecules to decompose more slowly.

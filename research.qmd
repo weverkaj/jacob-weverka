@@ -5,8 +5,8 @@ listing:
   sort: "title desc"
   type: grid
   image-align: right
-  max-description-length: 175
-  date-format: medium
+  # max-description-length: 175
+  # date-format: medium
   categories: false
   sort-ui: false
   filter-ui: false
